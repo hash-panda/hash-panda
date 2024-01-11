@@ -23,12 +23,25 @@
   </picture>
 </div>
 
-#  🙋 Hello
+# 😃 Hello
+---
 
-### 🤺 About Me
+### 👊 关于我
+
+<p>&emsp;&emsp;大家好，我是 GeekDAO。</p>
+<p>&emsp;&emsp;爱折腾，爱捣鼓新鲜事物，开放心态。</p>
+<p>&emsp;&emsp;热爱编程，励志成为一名优秀的开发者。</p>
+<p>&emsp;&emsp;主观能动性强，善于推动产品落地，调动你的热情，来一场说做就做的项目😄。</p>
+
+### 🌟 最近关心
+
+<p>&emsp;&emsp;探索 AI 的世界，程序员还能干什么.</p>
+<p>&emsp;&emsp;探索去中心化的世界，积极拥抱新事物。</p>
+
+### 👀 2024 Flag
+  - [ ] 开发能力有质的提升
+  - [ ] 开发一款独立产品
+  - [ ] 找到优秀的团队
 
 
-### 📚 Book recommendations
-
-### 🌟 Recent Focus
-
+![Metrics](https://metrics.lecoq.io/geekdao-info)
