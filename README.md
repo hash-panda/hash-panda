@@ -41,3 +41,9 @@
   - [ ] 开发能力有质的提升
   - [ ] 开发一款独立产品
   - [ ] 找到优秀的团队
+
+<div align="center">
+  <picture>
+    <img src="https://cdn.jsdelivr.net/gh/geekdao-info/geekdao-info/metrics/base.svg" height="100%" alt="github 活动记录" />
+  </picture>
+</div>
