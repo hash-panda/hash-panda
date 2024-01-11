@@ -1,6 +1,13 @@
 
 <div align="center">
-  
+
+  <h3>GeekDAO</h3>
+  <picture>
+    <img src="https://cdn.jsdelivr.net/gh/geekdao-info/geekdao-info/assets/images/person.png" height="180" alt="头像" />
+  </picture>
+
+  <div>&nbsp;</div>
+
   <!-- 个人信息 -->
   <div>
     <a href="https://blog.geekdao.info/"><img src="https://img.shields.io/badge/Blog-博客-blue" /></a>&emsp;
