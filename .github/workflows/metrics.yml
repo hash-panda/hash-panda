@@ -12,15 +12,15 @@ jobs:
   github-metrics:
     runs-on: ubuntu-latest
     steps:
-      # 基础信息（顺带了几个小插件）
+      # 基础信息
       - name: base
         uses: lowlighter/metrics@latest
         with:
-          filename: github-metrics/base.svg
+          filename: metrics/base.svg
           # Your GitHub token
           token: ${{ secrets.GITHUB_TOKEN }}
           # Options
           user: geekdao-info
           template: classic
           config_timezone: Asia/Beijing
-          base: "header, activity, community, repositories"
+          base: "header, activity, repositories"
