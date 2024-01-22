@@ -20,7 +20,7 @@ jobs:
           # Your GitHub token
           token: ${{ secrets.GITHUB_TOKEN }}
           # Options
-          user: geekdao-info
+          user: hash-panda
           template: classic
           config_timezone: Asia/Beijing
           base: "header, activity, repositories"
