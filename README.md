@@ -3,7 +3,7 @@
 
   <h3>哈希熊猫</h3>
   <picture>
-    <img src="https://cdn.jsdelivr.net/gh/hash-panda/hash-panda/assets/images/person.png" height="180" alt="头像" />
+    <img src="https://cdn.jsdelivr.net/gh/hash-panda/hash-panda/assets/images/avatar.png" height="180" alt="头像" />
   </picture>
 
   <div>&nbsp;</div>
