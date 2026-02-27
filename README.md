@@ -37,11 +37,6 @@
 <p>&emsp;&emsp;探索 AI 的世界，程序员还能干什么。</p>
 <p>&emsp;&emsp;探索去中心化的世界，积极拥抱新事物。</p> -->
 
-### 👀 2024 Flag
-  - [ ] 开发能力有质的提升
-  - [ ] 开发一款独立产品
-  - [ ] 找到优秀的团队
-
 <!-- <div align="center">
   <picture>
     <img src="https://cdn.jsdelivr.net/gh/hash-panda/hash-panda/metrics/base.svg" height="100%" alt="github 活动记录" />
