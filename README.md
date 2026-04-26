@@ -2,9 +2,6 @@
 <div align="center">
 
   <h3>哈希熊猫</h3>
-  <picture>
-    <img src="https://cdn.jsdelivr.net/gh/hash-panda/hash-panda/assets/images/avatar.jpg" height="180" alt="头像" />
-  </picture>
 
   <div>&nbsp;</div>
 
