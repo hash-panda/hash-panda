@@ -1,14 +1,14 @@
-
 <div align="center">
 
-  <h3>哈希熊猫</h3>
+  <h3>哈希熊猫 · hash-panda</h3>
 
   <div>&nbsp;</div>
 
   <!-- 个人信息 -->
   <div>
-    <a href="https://blog.geekdao.info/"><img src="https://img.shields.io/badge/Blog-博客-blue" /></a>&emsp;
-    <a href="https://geekdao.info"><img src="https://img.shields.io/badge/Website-网站-blue" /></a>&emsp;
+    <a href="https://funAgent.app"><img src="https://img.shields.io/badge/funAgent-官网-blue" /></a>&emsp;
+    <a href="https://github.com/funAgent"><img src="https://img.shields.io/badge/GitHub-@funAgent-black" /></a>&emsp;
+    <a href="https://x.com/funAgentApp"><img src="https://img.shields.io/badge/X-@funAgentApp-black" /></a>&emsp;
     <!-- 访问量统计徽标 -->
     <img src="https://komarev.com/ghpvc/?username=hash-panda&label=View&color=41c463" alt="访问量统计" />
   </div>
@@ -24,15 +24,21 @@
 
 ### 👊 关于我
 
-<p>&emsp;&emsp;大家好，我是哈希熊猫。</p>
-<p>&emsp;&emsp;爱折腾，爱捣鼓新鲜事物，开放心态。</p>
-<p>&emsp;&emsp;热爱编程，励志成为一名优秀的开发者。</p>
+<p>&emsp;&emsp;大家好，我是哈希熊猫。爱折腾，爱捣鼓新鲜事物，开放心态。</p>
+<p>&emsp;&emsp;现在专注 AI Agent 方向 —— 相信 AI 是超级个体的杠杆，正在通过 funAgent 把工具、课程和实验做成产品。</p>
 <p>&emsp;&emsp;主观能动性强，善于推动产品落地，调动你的热情，来一场说做就做的项目😄。</p>
 
-<!-- ### 🌟 最近关心
+### 🚀 funAgent
 
-<p>&emsp;&emsp;探索 AI 的世界，程序员还能干什么。</p>
-<p>&emsp;&emsp;探索去中心化的世界，积极拥抱新事物。</p> -->
+<p>&emsp;&emsp;我是 <a href="https://github.com/funAgent">funAgent</a> 的主理人 —— Making AI agents fun，专注 AI Agent 的工具、课程和实验：</p>
+
+| 项目 | 介绍 |
+| --- | --- |
+| 🐾 [ai-bubu](https://github.com/funAgent/ai-bubu) | 桌面宠物：追踪你的 AI 编码活动并转化为步数，AI 用得越多宠物跑得越快 |
+| 📚 [build-claude-code-cli](https://github.com/funAgent/build-claude-code-cli) | 从零构建企业级 AI Agent CLI，49 课逐课拆解 Claude Code 源码架构 |
+| 🍜 [eat-skill](https://github.com/funAgent/eat-skill) | 干饭 Skill —— 选品类、找餐馆、规划路线、饭点提醒，让 AI 帮你决定“今天吃什么” |
+
+<p>&emsp;&emsp;👉 官网 <a href="https://funAgent.app">funAgent.app</a></p>
 
 <!-- <div align="center">
   <picture>
